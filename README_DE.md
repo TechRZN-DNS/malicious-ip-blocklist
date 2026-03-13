@@ -1,4 +1,6 @@
-# Universal IP Blocklist (Converted by Jörg Berns)
+# Bösartige IP Sperrliste (Umgewandelt von Jörg Berns)
+
+[Click here for the English version](README.md)
 
 Dieses Repository bietet eine spezialisierte IP-Blockliste, basierend auf den Sicherheitsdaten von **Marius Bogdan Lixandru**.
 
@@ -16,12 +18,9 @@ Während 60.000 IP-Regeln eine Standard-NAS-Firewall (wie die von UGREEN oder Sy
 * **Pi-hole** (Adlist / Blacklist)
 * **Technitium DNS Server** (Block List)
 
-Durch die Einbindung in diese Tools wird dein Netzwerk geschützt, ohne die CPU deiner NAS-Firewall durch zehntausende Einzelregeln zu belasten.
-
 ## 🔗 Einbindung
 Kopiere diesen Raw-Link in dein AdGuard, Pi-hole oder Technitium:
-`https://raw.githubusercontent.com/SmokingBull/my-security-lists/main/deny-ip-list.txt`
+`https://raw.githubusercontent.com/SmokingBull/malicious-ip-blocklist/main/deny-ip-list.txt`
 
 ---
 **Hinweis:** Ein großes Dankeschön an Marius für die Bereitstellung der Daten auf [mariushosting.com](https://mariushosting.com). Supportet seine Arbeit!
-# my-security-lists
