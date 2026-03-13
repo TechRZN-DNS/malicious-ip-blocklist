@@ -3,6 +3,10 @@
 [Click here for the English version](README.md)
 
 Dieses Repository bietet eine spezialisierte IP-Blockliste, basierend auf den Sicherheitsdaten von **Marius Bogdan Lixandru**.
+## 🔄 Tägliche Aktualisierungen
+Sicherheit ist ein dynamischer Prozess. Daher wird diese Liste **täglich automatisch aktualisiert**, um sicherzustellen, dass die neuesten von Marius Hosting identifizierten bösartigen IPs zeitnah in dein System (AdGuard Home, Pi-hole etc.) übernommen werden. 
+
+*Hinweis: Bitte stelle in deinem AdGuard oder Pi-hole das Update-Intervall ebenfalls auf "Täglich", um davon zu profitieren.*
 
 ## 🛡️ Quelle & Anerkennung
 Die primäre Quelle dieser Daten ist:
