@@ -3,6 +3,10 @@
 [Klicke hier für die deutsche Version](README_DE.md)
 
 This repository provides a specialized IP blocklist based on the security data provided by **Marius Bogdan Lixandru**.
+## 🔄 Daily Updates
+Security is a dynamic process. Therefore, this list is **automatically updated on a daily basis** to ensure that the latest malicious IPs identified by Marius Hosting are quickly integrated into your system (AdGuard Home, Pi-hole, etc.).
+
+*Note: Please remember to set the update interval in your AdGuard or Pi-hole settings to "Daily" to benefit from these updates.*
 
 ## 🛡️ Source & Credits
 The primary source of this data is:
